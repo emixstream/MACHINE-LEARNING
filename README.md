@@ -1,2 +1,2 @@
 # MACHINE-LEARNING
-A nice job fixing a typical business problem
+A nice project fixing a typical business problem
